@@ -1,4 +1,5 @@
 /solution/*.txt
+/solution/*.pyc
 /solution/__pycache__/
 /__pycache__
 clients.txt
